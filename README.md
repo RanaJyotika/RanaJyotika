@@ -1,79 +1,56 @@
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
 
-###
+<div align="center">
+  <img height="180" src="https://i.imgflip.com/65efzo.gif" />
+</div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Myself+Jyotika!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=550&height=70&duration=4000&color=BD93F9&lines=Hey+There!+%F0%9F%91%8B;I'm+Jyotika+Rana!;Welcome+to+my+GitHub!" />
 </h1>
 
-###
+<h3 align="center">
+  Computer Science Graduate | Developer | Tech Enthusiast
+</h3>
 
 <div align="center">
-  <a href="srrana956@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:srrana956@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ranajyotika/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/ranajyotika/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
-###
+<br/>
 
-<h1 align="left">About me</h1>
+<h2>About Me 🌙</h2>
 
-###
+I'm a **Computer Science & Engineering graduate** with a passion for building meaningful digital experiences.
 
-<p align="left">I'm a pre-final year student pursuing my B.Tech in Computer Science and Engineering from Punjab. With a keen interest in web development and a passion for coding, I'm constantly exploring new technologies and honing my skills to create meaningful projects.</p>
+I enjoy exploring new technologies, solving real-world problems, and turning creative ideas into functional applications.
 
-###
+Always curious, always learning, and always building something new.
 
-<h1 align="left">Skills</h1>
-
-###
+<h2>Tech Stack 🛠️</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,cs&theme=dark" />
 </div>
 
-###
+<h2>Beyond Coding ✨</h2>
+
+- Turning ideas into real-world projects.
+- Exploring technology and creative solutions.
+- Finding inspiration in mountains and nature.
+- Learning something new every day.
+
+<h2>Contribution Snake 🐍</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RanaJyotika&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RanaJyotika&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=RanaJyotika&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=RanaJyotika&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/RanaJyotika/RanaJyotika/output/snake.svg" alt="GitHub Contribution Snake Animation" />
 </div>
 
-###
-
-<h1 align="left">Fun Fact</h1>
-
-###
-
-<p align="center">Did you know? I find coding a-moo-zing when sipping on milk instead of tea! 🐄💻😅 #MilkAndCode</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/RanaJyotika/RanaJyotika/output/snake.svg" alt="Snake animation" />
-
-###
+<br/>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RanaJyotika.RanaJyotika&left_color=darkblue&right_color=lightcoral"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RanaJyotika.RanaJyotika&left_color=282a36&right_color=bd93f9" />
 </div>
-
-###
